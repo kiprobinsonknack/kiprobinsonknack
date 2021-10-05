@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kiprobinsonknack, a developer at @knackhq!
+- 👋 Hi, I’m @kiprobinsonknack, a full stack developer at @knackhq!
 
 <!---
 kiprobinsonknack/kiprobinsonknack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
